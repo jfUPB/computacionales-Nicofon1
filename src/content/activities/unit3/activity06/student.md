@@ -10,7 +10,6 @@ Stack: La memoria se maneja sola, se asigna y libera cuando la función termina.
 
 Heap:Tú debes asignar y liberar memoria con new y delete.
 
-Lento: El acceso es más lento que en el stack, pero tiene más espacio.
 
 Consecuencias de no liberar memoria con new:
 Si no usas delete, la memoria sigue ocupada, lo que puede causar fugas de memoria. Esto significa que el programa usa más memoria y puede llegar a quedarse sin recursos, haciéndolo lento o inestable.
