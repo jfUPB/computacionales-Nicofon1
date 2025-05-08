@@ -1,0 +1,2 @@
+1.  la variable inicializada pasa de 42 a 69 y la no inicializada de 0/null a 666, debido a que las vsriables se guardan en sona de memoria para variables globales-estatica por lo que tiene acceso de lectura i escritura sin problema
+2.  acourre un error debido a que main desconose la variable debido a que la ser una static a pesar de que se inicializa una sola vez y no se destruye al terminar de ejecutar la funcion, solo se permite el acceso a ella a travez de la funcion.
