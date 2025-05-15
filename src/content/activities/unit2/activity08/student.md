@@ -1,0 +1,1 @@
+De la intruccion 0 a la 3 establece los parametros iniciales de posicion en pantalla, de la 4 a la 7 evalualua si se esta oprimiendo alguna tecla, de la 8 a la 13 evalua si se puede seguir quitando lineas en pantalla, de la 14 a la 18 las quita, de la 19 a la 24 evalua si hay espacios que se puedan llenar, de la 25 a 29, los llena y 30 - 31 repite ciclo
