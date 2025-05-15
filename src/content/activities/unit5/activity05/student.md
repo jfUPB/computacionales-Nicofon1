@@ -1,14 +1,23 @@
-+ ¿La unidad fue demasiado fácil, equilibrada o demasiado difícil? ¿Por qué?
-  + en cuanto a dificultad me parecio bien pero en cuanto su estructura, se sio¿ntio eterno
+#### 1. ¿Consideras que entiendes mejor los conceptos de la programación orientada a objetos?
 
-+ Sobre el ritmo: ¿El tiempo asignado fue adecuado?
-  + si
+Sí, ahora entiendo mejor los conceptos porque los vi aplicados de forma práctica.
 
-+ Sobre los materiales: ¿Qué tan útil fue la estructura del curso (enunciados, código base, instrucciones, depuración, etc.)? ¿Cómo se podrían mejorar?
-  + lo unico maluqisimno es q la 2 se sintio eterna perfectamente se podria dividir en 3 actividades y esta cosa (mínimo 5 líneas por pregunta) eran 7 preguntasm, redactar 35 renglones para una sola actividad de metacogmicion me parece inecesariamente mucho
+#### 2. ¿Qué partes te resultaron más fáciles? ¿Por qué?
 
-+ Sobre la experiencia de aprendizaje: ¿Qué fue lo mejor de esta unidad? ¿Qué te gustaría que se hiciera diferente?
-  + lo q me gusto fue el de aplicacion, el de seek se pudo dividir en mas actividades para no sentirse atascado, pq si en cada reistra bitacora se enumeran individualmente las preguntas en total esa actividad tendria 33 preguntas lo q me parece demasiado pa una actividad
+Me pareció fácil la parte de herencia porque solo era extender clases.
 
-+ Propuesta de mejora: si fueras el profesor y tuvieras que mejorar esta unidad para los próximos estudiantes, ¿Qué cambiarías y por qué?
-  + distribuir mejor la longitud de actividades y evitar rellenos inecesarios
+#### 3. ¿Qué parte te tomó más tiempo? ¿Cómo la resolviste?
+
+El polimorfismo me costó un poco, pero entendí cuando vi que se llamaban métodos diferentes desde la misma clase base.
+
+#### 4. ¿Qué harías diferente para mejorar tu comprensión?
+
+Intentaría practicar más desde el principio, no solo al final.
+
+#### 5. ¿Crees que te servirá en futuros proyectos?
+
+Sí, porque casi todo lo que se hace en programación tiene algo de POO.
+
+#### 6. Luego de leer el texto, ¿cambiarías tu opinión sobre la importancia de la programación en tu carrera?
+
+Sí, me hace ver que la programación sirve también en arte y animación, no solo en cosas técnicas.
